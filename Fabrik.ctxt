@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Fabrik
+comment0.text=\n\ Die\ Klasse\ Fabrik\ nimmt\ die\ Bestellungen\ der\ Kunden\ und\ Kundinnen\ entgegen\ und\ verwaltet\ diese\ ebenfalls.\n\ \n\ @author\ Simon\ F\u00FCrst\n\ @version\ 1,\ Datum\:\ 03.10.2023\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\n\ Hier\ wird\ die\ Main-Methode\ aufgerufen.\n\ Sie\ erm\u00F6glicht\ den\ Einstieg\ in\ das\ Programm\ bzw.\ das\ Aufgeben\ und\ Ausgeben\ von\ Bestellungen.\n
+comment2.params=
+comment2.target=Fabrik()
+comment2.text=\ Hier\ wird\ die\ Instanzvariabel\ initialisiert\n
+comment3.params=stuehle\ sofas
+comment3.target=void\ bestellungAufgeben(int,\ int)
+comment3.text=\n\ Methode\:\ Erm\u00F6glicht\ es\ Bestellungen\ von\ St\u00FChlen\ und\ Sofas\ aufzugeben.\n\ @parameter\:\ Die\ Anzahl\ St\u00FChle\ und\ Sofas\ werden\ als\ integer\ angegeben.\n
+comment4.params=
+comment4.target=void\ bestellungAusgeben()
+comment4.text=\n\ Methode\:\ Erm\u00F6glicht\ es\ Bestellungen\ von\ St\u00FChlen\ und\ Sofas\ auszugeben.\n\ Zudem\ gibt\ sie\ jeweils\ die\ Information\ zu\ den\ einzelnen\ Bestellungen\ in\ Form\ von\ Strings\ aus.\n
+comment5.params=
+comment5.target=int\ totalBestellungen()
+comment5.text=\n\ Methode\:\ Gibt\ die\ Gr\u00F6sse\ der\ totalen\ Bestellungen\ aus.\n\ @return\:\ integer\ /\ ganze\ Zahl\n
+comment6.params=
+comment6.target=java.util.ArrayList\ gibBestellungen()
+comment6.text=\n\ Methode\:\ Erm\u00F6glicht\ es\ alle\ Bestellungen\ der\ Liste\ <Bestellungen>\ auszugeben\:\n\ @return\:\ Liste\n
+numComments=7

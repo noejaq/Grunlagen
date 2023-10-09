@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Produkt
+comment0.text=\n\ Die\ Klasse\ "Produkt"\ enth\u00E4lt\ den\ Zustand\ der\ Produkte\ (St\u00FChle\ und\ Sofas).\n\ Zudem\ werden\ die\ Eigenschaften\ der\ Produkte\ definiert.\n\ \n\ @author\ Simon\ F\u00FCrst\ \n\ @version\ 1,\ Datum\:\ 03.10.2023\n
+comment1.params=
+comment1.target=Produkt()
+comment1.text=\n\ Konstruktor\ f\u00FCr\ die\ Objekte\ der\ Klasse\ Produkt.\n\ Der\ Zustand\ wird\ hier\ mit\ dem\ Wert\ \=\ 1\ initialisiert.\ \n\ Das\ bedeutet,\ dass\ das\ Produkt\ bestellt\ wurde.\ \n
+comment2.params=neuerZustand
+comment2.target=void\ zustandAendern(int)
+comment2.text=\n\ Methode\:\ Erm\u00F6glicht\ den\ Zustand\ des\ Produkts\ zu\ \u00E4ndern\n\ @parameter\:\ integer\n
+comment3.params=
+comment3.target=int\ gibZustand()
+comment3.text=\n\ Methode\:\ Abrufen\ und\ ausweisen\ des\ Zustands\ eines\ Produkts\ auf\ der\ Konsole\n
+numComments=4

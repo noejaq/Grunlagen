@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Stuhl
+comment0.text=\n\ Die\ Klasse\ "Stuhl"\ ist\ eine\ Erweiterung\ der\ Klasse\ "Produkt".\n\ Sie\ enth\u00E4lt\ die\ Materialien,\ welche\ f\u00FCr\ die\ Produktion\ der\ Instanzen\ der\ Klasse\ "Stuhl"\ ben\u00F6tigt\ werden.\n\ Zudem\ k\u00F6nnen\ entsprechende\ Methoden\ aufgerufen\ werden,\ um\ die\ Informationen\ \u00FCber\ die\ ben\u00F6tigten\ Materialien\ einzusehen.\n\ \n\ @author\ Simon\ \ F\u00FCrst\n\ @version\ 1,\ Datum\:\ 03.10.2023\n
+comment1.params=
+comment1.target=Stuhl()
+comment1.text=\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ Stuhl\n\ Hier\ werden\ die\ Materialien\ und\ die\ Produktionszeit\ f\u00FCr\ die\ Instanz\ Stuhl\ zugewiesen.\n
+comment2.params=
+comment2.target=int\ gibBen\u00F6tigteProduktionszeit()
+comment2.text=\n\ Methode\:\ Abrufen\ der\ ben\u00F6tigten\ Produktionszeit\n\ @return\:\ integer\n
+comment3.params=
+comment3.target=int\ gibBen\u00F6tigteEinheitenHolz()
+comment3.text=\n\ Methode\:\ Abrufen\ der\ ben\u00F6tigten\ Einheiten\ an\ Holz\n\ @return\:\ integer\n
+comment4.params=
+comment4.target=int\ gibBen\u00F6tigteSchrauben()
+comment4.text=\n\ Methode\:\ Abrufen\ der\ ben\u00F6tigten\ Schrauben\n\ @return\:\ integer\n
+comment5.params=
+comment5.target=int\ gibBen\u00F6tigteEinheitenFarbe()
+comment5.text=\n\ Methode\:\ Abrufen\ der\ ben\u00F6tigten\ Einheiten\ an\ Farbe\n\ @return\:\ integer\n
+comment6.params=
+comment6.target=int\ gibBen\u00F6tigteEinheitenKarton()
+comment6.text=\n\ Methode\:\ Abrufen\ der\ ben\u00F6tigten\ Einheiten\ an\ Karton\n\ @return\:\ integer\n
+numComments=7

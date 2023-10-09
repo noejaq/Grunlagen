@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=FabrikTest
+comment0.text=\n\ Die\ Test-Klasse\ FabrikTest\ f\u00FChrt\ alle\ Unit-Tests\ durch\ und\ verwaltet\ diese.\ \n\n\ @author\ \ Simon\ F\u00FCrst\ \n\ @version\ 1,\ Datum\:\ 05.10.2023\n
+comment1.params=
+comment1.target=FabrikTest()
+comment1.text=\n\ Konstruktor\ fuer\ die\ Test-Klasse\ FabrikTest\n\ Gibt\ die\ Teststruktur\ f\u00FCr\ den\ Test\ und\ wird\ vor\ jeder\ Testfall-Methode\ aufgerufen.\n
+comment2.params=
+comment2.target=void\ testbestellungAusgeben()
+comment2.text=\n\ \ Hier\ wird\ getestet\ ob\ die\ bestellten\ Produkte\ ausgegeben\ werden\ k\u00F6nnen\n
+comment3.params=
+comment3.target=void\ testAnzahlBestellungen()
+comment3.text=\n\ Hier\ wird\ die\ Anzahl\ der\ bestellten\ Produkte\ getestet\n
+comment4.params=
+comment4.target=void\ testUngueltigeBestellung()
+comment4.text=\n\ Hier\ wird\ getestet\ ob\ eine\ ung\u00FCltige\ Bestellung\ aufgegeben\ werden\ kann\n
+comment5.params=
+comment5.target=void\ testAnzahlProdukte()
+comment5.text=\n\ Hier\ wird\ die\ Gr\u00F6sse\ der\ bestellten\ Produkte\ getestet\n
+numComments=6
